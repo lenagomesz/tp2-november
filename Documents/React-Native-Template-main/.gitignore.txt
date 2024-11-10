@@ -1,0 +1,11 @@
+# Ignorar diretórios temporários e de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignorar diretórios de configuração e caches
+.vscode/
+.node_repl_history
+.expo/
+yarn.lock
+npm-debug.log
